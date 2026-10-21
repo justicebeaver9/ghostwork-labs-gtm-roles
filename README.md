@@ -6,7 +6,7 @@ Static site for the Ghostwork Labs subscription newsletter and job board focused
 
 ## Deployment
 
-Push to main and it deploys via Vercel (team: ghostwork-labs).
+Push to main and it deploys via Vercel (team: ghostwork-labs). Or enable GitHub Pages.
 
 ## Monetization Layers
 
